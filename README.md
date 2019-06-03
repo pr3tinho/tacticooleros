@@ -7,7 +7,7 @@ Tacticooleros is a Java Library Sample.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Tacticooleros.
 
 ```bash
-pip install foobar
+pip install tacticooleros
 ```
 
 ## Usage
@@ -15,9 +15,9 @@ pip install foobar
 ```python
 import tacticooleros
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+tacticooleros.pluralize('word') # returns 'words'
+tacticooleros.pluralize('goose') # returns 'geese'
+tacticooleros.singularize('phenomena') # returns 'phenomenon'
 ```
 
 ## Contributing
