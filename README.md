@@ -1,29 +1,19 @@
 # Tacticooleros
 
-Tacticooleros is a Java Library Sample.
+Tacticooleros is a free repository
+
+## Get Git
+
+Download https://github.com/pr3tinho/tacticooleros
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Tacticooleros.
-
-```bash
-pip install tacticooleros
-```
-
-## Usage
-
-```python
-import tacticooleros
-
-tacticooleros.pluralize('word') # returns 'words'
-tacticooleros.pluralize('goose') # returns 'geese'
-tacticooleros.singularize('phenomena') # returns 'phenomenon'
-```
+ - Download & Install [node.js] https://nodejs.org/es/
+ - Download & Install [vscode] https://code.visualstudio.com/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[gobot] by Preto. 
