@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 // const config = require("./config.json");
 const bot = new Discord.Client({disableEveryone: true});
-const token = "NTg1MDQ3OTEzNzg1MTk2NTQ0.XPfbMw.UiR9pcS5zwgmdVbirEN05Tv6XdE";
+const token = "NjgzOTY4MzY0NTEwODM4Nzg0.XlzVtg._AsjSHiwWHQpjY4VXQ0G4llr3SM";
 
 // Requires all dependencies
 bot.on("ready", async()=>{    
