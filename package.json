@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
   "dependencies": {
-    "discord.js": "^11.3.0"
+    "discord.js": "^11.3.0",
+    "random-binary": "^1.0.3",
+    "random-char": "^1.0.4"
   }
 }
